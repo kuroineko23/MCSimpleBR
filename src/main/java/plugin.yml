@@ -1,0 +1,10 @@
+name: SimpleBR
+main: id.my.kuro.SimpleBR.Main
+version: 0.1
+api-version: 1.16
+author : kuroineko23
+website : kuroneko23.my.id
+
+permissions :
+   SimpleBR.* :
+      default : true
